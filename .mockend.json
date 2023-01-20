@@ -19,6 +19,9 @@
       }
     },
     "category": {
+          "_": {
+      "items": 12
+    },
       "string": ["one", "two", "three"]
     },
     "isDraft": {
